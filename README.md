@@ -80,7 +80,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/m1sstak3/getgems-nft-landing.git](https://github.com/m1sstak3/getgems-nft-landing.git)
+   git clone https://github.com/m1sstak3/getgems-nft-landing.git
    cd getgems-nft-landing
    ```
 
